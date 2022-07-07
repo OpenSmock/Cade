@@ -42,7 +42,7 @@ Smock toolbox ? TODO
 
 * **Pierre Laborde** - *Initial work and development* - [labordep](https://github.com/labordep)
 * **Eric Le Pors** - *Initial work and development* - [ELePors](https://github.com/ELePors)
-* **Yann Le Goff** - *Development*
+* **Yann Le Goff** - *Development* - [Nyan11](https://github.com/Nyan11)
 
 ## License
 
