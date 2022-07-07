@@ -1,5 +1,7 @@
 # Cade
 
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/49183340/177753931-c4c53bd5-86fe-4ef1-82ec-555ee276078e.png)
+
 Cade is a library to build UI prototyping in Pharo.
 Cade provide two levels of UI design : the first level is the building of shapes (geometrics, images and texts) and the second level is the building of rich UI with widgets.
 Cade is implemented in Cincom VisualWorks since 2010 and also is implemented in Pharo since 2022.
